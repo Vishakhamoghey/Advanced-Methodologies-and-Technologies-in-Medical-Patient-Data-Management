@@ -1,1 +1,1 @@
-# Advanced-Methodologies-and-Technologies-in-Medical-Patient-Data-Management
+A Python-based GUI project for secure and efficient medical patient data management. Features include login authentication, patient data analysis, visualization, and integration with datasets. Built using Tkinter, Pandas, and Matplotlib to support healthcare data security and usability.
